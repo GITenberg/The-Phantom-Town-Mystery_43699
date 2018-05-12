@@ -1,0 +1,32 @@
+_repo: The-Phantom-Town-Mystery_43699
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43699-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Norton, Carol
+    birthdate: 1876
+    gutenberg_agent_id: '41818'
+    url: http://www.gutenberg.org/2009/agents/41818
+    wikipedia: http://www.gutenberg.org/browse/authors/n#a41476
+description: ''
+gutenberg_issued: '2013-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Arizona -- Description and travel -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Haunted places -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Caves -- Juvenile fiction'
+- !lcsh 'Western stories'
+title: The Phantom Town Mystery
+url: http://www.gutenberg.org/ebooks/43699
